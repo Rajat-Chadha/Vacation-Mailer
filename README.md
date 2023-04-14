@@ -16,7 +16,7 @@ What the app does:
     
     After sending the replies, the email is tagged with a label "Vacation Mailer" in Gmail.
     
-4. The app repeats this sequence of steps 1-3 in random intervals of 45 to 120 seconds.
+4. The app repeats this sequence of steps 1-3 in interval of 50 seconds.
 
 
 Pre Requisites you need :
